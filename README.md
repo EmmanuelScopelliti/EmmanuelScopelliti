@@ -59,4 +59,5 @@ You can click the Preview link to take a look at your changes.
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ## 🌐Socials
-[![Discord](https://img.shields.io/badge/Discord-%230077B5.svg?logo=Discord&logoColor=grey)](https://discord.com/user/DJScoop17#0772)
+![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/DJScoop17?label=u%2FDJScoop17&logoColor=blue&style=social)
+[![Discord](https://img.shields.io/badge/Discord-%230077B5.svg?logo=Discord&logoColor=grey)](https://discord.com/api/oauth2/authorize?client_id=826425108460863528&permissions=8&scope=bot)
