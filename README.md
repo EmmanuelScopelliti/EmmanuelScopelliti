@@ -36,6 +36,7 @@ You can click the Preview link to take a look at your changes.
 ![BitBucket](https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white)
 
 ![VSC](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![PhpStorm](https://img.shields.io/badge/phpstorm-7B55FE?style=for-the-badge&logo=phpstorm&logoColor=white)
 
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
